@@ -1,0 +1,6 @@
+numpy
+opencv-python-headless
+matplotlib
+pillow
+scikit-image
+pydantic-settings
