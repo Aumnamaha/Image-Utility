@@ -36,3 +36,7 @@ Thumbs.db
 dist/
 build/
 *.whl
+
+# Large dataset arrays (keep .gitkeep)
+data/raw/*.npy
+data/ground_truth/*.npy
