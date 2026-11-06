@@ -1,4 +1,19 @@
-# Image Utility
+# 🛰️ Image Utility — Water Body Segmentation
+
+> **Modular Python pipeline for automated water body segmentation from multi-spectral satellite imagery using NDWI, Otsu thresholding, and morphological filtering — packaged as a reproducible CLI tool with 98 automated tests.**
+
+[![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![OpenCV](https://img.shields.io/badge/OpenCV-4_x-5C3EE2?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
+[![pytest](https://img.shields.io/badge/tests-98_passed-brightgreen?style=for-the-badge&logo=pytest&logoColor=white)](tests/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
+
+---
+
+## 📋 Executive Summary
+
+A modular, open-source Python pipeline for automated water body segmentation from multi-spectral satellite imagery. Combines **NDWI** (Normalized Difference Water Index), **Otsu's automatic thresholding**, and **morphological filtering** — packaged as a reproducible CLI tool with 98 automated tests.
+
+---
 
 <div align="center">
 
